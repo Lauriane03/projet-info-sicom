@@ -12,8 +12,5 @@
 
 object sfs_eval( object input ) {
 
-	if (input->this.pair.car == "quote")
-		return input->this.pair.cdr;
-
 }
 
